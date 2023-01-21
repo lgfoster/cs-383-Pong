@@ -27,7 +27,7 @@ Code can be edited through Unity to generate a new build of the game by doing th
     * Note: All C# scripts used in this game are stored within the Assets folder 
 5. After editing the scripts and game is done, create a new build of the game by clicking the file button on the upper left corner of the editor and then selecting Build and Run
 6. Unity will then compile the entire project (this will usually take a while) and generate a new executable game file, along with a .dll and MonoBleedingEdge folder
-7. Now the game is complete and can be ran with the new executable!
+7. Now the game is complete and can be run with the new executable!
 
 ## **How to Install Unity**
 1. Start by downloading the Unity Hub from https://unity.com/download
