@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paddle
+  - Ball
+  - LeftPlayerScore
+  - RightPlayerScore
+  - Canvas
+  - LeftScore
+  - RightScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Game
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PauseUI
+    uniqueID: 3225440447
+    locked: 1
+  - name: Ball and Paddles
+    uniqueID: 4250439031
+    locked: 0
+  - name: ScoreUI
+    uniqueID: 123943099
+    locked: 0
+  - name: Game
+    uniqueID: 4186204959
+    locked: 0
