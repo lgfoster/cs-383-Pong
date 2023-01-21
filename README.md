@@ -34,6 +34,7 @@ Code can be edited through Unity to generate a new build of the game by doing th
 2. After installing, accept the User Terms and License Agreement
 3. Unity Hub will then ask about which editor versions and assets to install
     1. Select ``` Unity 2021.3.16f1 ``` as this was the version of Unity Editor this game was built with
+    2. The installer will then ask about which modules to install. Choose ones that are desireable for your build
+          * Note: I would recommend downloading the Microsoft Visual Studio Community 2019 module, as this can make coding easier
 4. Installing the editor and additional assets will take time. After the installation, click on the Installs tab in the Unity Hub to confirm the editor and asset installations
 5. Once the installs have been confirmed, Unity has officially been installed on your computer!
-   
