@@ -10,7 +10,7 @@ Execute the cs383-pong.exe within the file to run the game.
  
 ## **How to Play:**
 
-* This game supports two players and both pattles can be controlled via:
+* This game supports two players and both paddles can be controlled via:
    * Left Paddle: "w" and "s" keys to move paddle up and down on left of screen
    * Right Paddle: "up" and "down" keys to move paddle up and down on right of screen
 * Serve the ball by pressing "space"
