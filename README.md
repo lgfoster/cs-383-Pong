@@ -1,6 +1,7 @@
 # **Pong the Game - Made in Unity**
 ## **Quick Play**
-* To play this game, first clone the repo with ``` git clone https://github.com/lgfoster/cs-383-Pong.git pong_unity```
+* To play this game, first clone the repo with:
+```git clone https://github.com/lgfoster/cs-383-Pong.git pong_unity```
 
    * A .zip can also be downloaded by clicking the green Code button on the upper right of the webpage.
 
@@ -17,7 +18,7 @@
 
 ## **Create New Build**
 Code can be edited through Unity to generate a new build of the game by doing the following:
-1. Clone this repo using ``` git clone https://github.com/lgfoster/cs-383-Pong.git pong_unity``` or download the zip
+1. Clone this repo using ```git clone https://github.com/lgfoster/cs-383-Pong.git pong_unity``` or download the zip
 2. Open Unity or download Unity from https://unity.com/download
     * Follow Unity's download guide 
     * Once the Unity hub is downloaded, install the latest Unity 2021.3.16 build
@@ -30,10 +31,10 @@ Code can be edited through Unity to generate a new build of the game by doing th
 
 ## **How to Install Unity**
 1. Start by downloading the Unity Hub from https://unity.com/download
-    1. Choose the Windows platform to download and then click the ``` UnityHubSetup.exe ```
+    1. Choose the Windows platform to download and then click the ```UnityHubSetup.exe```
 2. After installing, accept the User Terms and License Agreement
 3. Unity Hub will then ask about which editor versions and assets to install
-    1. Select ``` Unity 2021.3.16f1 ``` as this was the version of Unity Editor this game was built with
+    1. Select ```Unity 2021.3.16f1``` as this was the version of Unity Editor this game was built with
     2. The installer will then ask about which modules to install. Choose ones that are desireable for your build
           * Note: I would recommend downloading the Microsoft Visual Studio Community 2019 module, as this can make coding easier
 4. Installing the editor and additional assets will take time. After the installation, click on the Installs tab in the Unity Hub to confirm the editor and asset installations
