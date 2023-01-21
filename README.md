@@ -1,11 +1,11 @@
 # **Pong the Game - Made in Unity**
 ## **Quick Play**
-* To play this game, first clone the repo with:
+To play the game, clone the repo with:
 ```git clone https://github.com/lgfoster/cs-383-Pong.git pong_unity```
 
    * A .zip can also be downloaded by clicking the green Code button on the upper right of the webpage.
 
-* Execute the cs383-pong.exe within the file to run the game.
+Execute the cs383-pong.exe within the file to run the game.
             
  
 ## **How to Play:**
